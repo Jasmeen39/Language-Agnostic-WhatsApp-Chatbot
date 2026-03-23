@@ -1,0 +1,5 @@
+.env
+all-MiniLM-L6-v2/
+vector_store/
+data/
+*.pdf
